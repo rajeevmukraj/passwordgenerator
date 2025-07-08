@@ -1,0 +1,121 @@
+body {
+    margin: 0;
+    background: #1C1C1C;
+}
+
+#content {
+    background-size: 550px;
+    background-color: #1F2937;
+    margin: 64px;
+    padding-top: 115px;
+    padding-bottom: 315px;
+    padding-left: 52px;
+    padding-right: 144px;
+    display: block;
+    flex-direction: column;
+}
+
+#heading {
+    font-family: Karla;
+    font-weight: 800;
+    font-style: ExtraBold;
+    font-size: 40px;
+    line-height: 40px;
+    letter-spacing: -2.5%;
+    color: white;
+    margin-bottom: 0%;
+}
+
+#gen {
+    font-family: Karla;
+    font-weight: 800;
+    font-style: ExtraBold;
+    font-size: 40px;
+    line-height: 40px;
+    letter-spacing: -2.5%;
+    margin-bottom: 0px;
+}
+
+#pas {
+    color: #10B981;
+    display: block;
+    font-family: Karla;
+    font-weight: 800;
+    font-style: ExtraBold;
+    font-size: 40px;
+    line-height: 40px;
+    letter-spacing: -2.5%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#nev {
+    color: #D5D4D8;
+    display: block;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: 0%;
+    font-weight: lighter;
+    margin-bottom: 50px;
+}
+
+#generator {
+    width: 191px;
+    height: 42px;
+    opacity: 1;
+    top: 284px;
+    left: 52px;
+    border-radius: 6px;
+    padding-top: 9px;
+    padding-right: 17px;
+    padding-bottom: 9px;
+    padding-left: 15px;
+    gap: 12px;
+    background-color: #10B981;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    color: white;
+}
+
+hr {
+    margin-top: 35px;
+    width: 446.0000000000017;
+    height: 0px;
+    angle: -0 deg;
+    opacity: 1;
+    top: 361px;
+    left: 52px;
+    border-width: 1px;
+    background-color: #2F3E53;
+}
+
+#results {
+    display: flex;
+    font-weight: bold;
+}
+
+#r1 {
+    border-radius: 6px;
+    background-color: #273549;
+    color: #10B981;
+    width: 211px;
+    height: 39px;
+    text-align: center;
+    padding-top: 18px;
+    margin-right: 24px;
+
+}
+
+#r2 {
+    border-radius: 6px;
+    background-color: #273549;
+    color: #10B981;
+    width: 211px;
+    height: 39px;
+    text-align: center;
+    padding-top: 18px;
+}
